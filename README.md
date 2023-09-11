@@ -25,4 +25,6 @@
     <p style="border:10px solid hsla(348,83%,47%,0.4)">
     Codigo thegref
      </p>
+  </br>
+    <img src="img/descarga.jfif" alt="la imagen">
 </body>
